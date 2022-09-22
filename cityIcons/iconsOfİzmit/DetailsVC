@@ -1,0 +1,12 @@
+//
+//  DetailsVC.swift
+//  iconsOfİzmit
+//
+//  Created by Muhammed yasir Keles on 9/22/22.
+//
+
+import UIKit
+
+class DetailsVC: NSObject {
+
+}
